@@ -1,1 +1,1 @@
-this is my 0x03-shell readme
+create a scropt that print hello user, where user is the current Linux use
